@@ -1,0 +1,34 @@
+{
+  "lab_number": 3,
+  "discipline": "Цифровые устройства",
+  "subject": "Цифровые устройства",
+  "student_name": "Иванов И.И.",
+  "student_group": "РИ-231001",
+  "teacher": "Петров П.П.",
+  "city": "Екатеринбург",
+  "year": "2026",
+  "keywords": ["ARDUINO", "7-SEGMENT", "SHIFT REGISTER"],
+  "introduction": "Введение в работу со сдвиговыми регистрами...",
+  "conclusion": "Выводы по работе...",
+  "tasks": [
+    {
+      "number": 1,
+      "title": "Счетчик на 7-сегментном индикаторе",
+      "problem_statement": "Текст задания из методички...",
+      "test_data": {
+        "caption": "Таблица проверок",
+        "headers": ["Ввод", "Вывод"],
+        "rows": [["Нажатие кнопки", "Инкремент +1"]]
+      },
+      "algorithm": "Описание алгоритма работы программы...",
+      "code_files": [
+        {
+          "caption": "main.ino",
+          "content": "// Ваш код здесь..."
+        }
+      ],
+      "image_path": "examples/sample_circuit.jpeg",
+      "image_caption": "Схема в TinkerCad"
+    }
+  ]
+}
